@@ -33,3 +33,6 @@ python tmdb_tool.py --type <type> --genre <genre>
 - Make sure your API key is valid; otherwise, the tool won't work.
 - The format_overview function wraps long movie descriptions for better terminal display.
  - If Any is passed as the genre, the tool will select a random genre.
+
+## Project URL
+https://roadmap.sh/projects/tmdb-cli
